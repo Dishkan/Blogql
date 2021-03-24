@@ -1,0 +1,12 @@
+//blogql
+
+laravel new project_name
+composer require nuwave/lighthouse
+composer require mll-lab/laravel-graphql-playground
+php artisan vendor:publish --tag=lighthouse-schema
+composer require --dev barryvdh/laravel-ide-helper
+composer require laravel/ui
+php artisan ui vue
+npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
+npx tailwindcss init
+npm install graphql-tag
