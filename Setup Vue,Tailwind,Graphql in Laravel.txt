@@ -10,3 +10,5 @@ php artisan ui vue
 npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
 npx tailwindcss init
 npm install graphql-tag
+npm install moment
+npm i vue-apollo graphql apollo-boost
