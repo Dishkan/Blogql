@@ -12,3 +12,4 @@ npx tailwindcss init
 npm install graphql-tag
 npm install moment
 npm i vue-apollo graphql apollo-boost
+npm i vue-router
